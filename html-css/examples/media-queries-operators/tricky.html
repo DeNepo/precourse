@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Tricky</title>
+  <meta charset='utf-8'>
+
+  <!-- Psst. click "inspect in a new tab" -->
+  <style>
+    .responsive-thing {
+      height: 50vh;
+      width: 50vw;
+      color: white;
+      font-size: 4em;
+      background-color: red;
+    }
+
+    @media (max-width: 40vw) and (max-height: 40vh) {
+      .responsive-thing {
+        background-color: black;
+      }
+    }
+
+    @media (min-height: 60vh) and (min-width: 60vw) {
+      .responsive-thing {
+        background-color: blue;
+      }
+    }
+  </style>
+  <script> // a script to display viewport dimensions
+    window.onresize = () => {
+      document.getElementById('dimensions').innerHTML =
+        'H: ' + window.innerHeight + '<br>' +
+        'W: ' + window.innerWidth;
+    }
+  </script>
+</head>
+
+<body>
+  <section class='responsive-thing' id='dimensions'></section>
+</body>
+
+</html>

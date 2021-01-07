@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Arranged Semantic Elements</title>
+  <!-- you will need to do this with CSS -->
+  <style>
+    header {
+      background-color: red;
+      width: 100vw;
+      height: 10vh;
+    }
+
+    nav {
+      background-color: orange;
+      width: 100vw;
+      height: 10vh;
+    }
+
+    section {
+      background-color: black;
+      width: 100vw;
+      height: 70vh;
+      position: relative;
+    }
+
+    aside {
+      background-color: green;
+      width: 40vw;
+      height: 70vh;
+      position: absolute;
+      right: 0px;
+    }
+
+    article {
+      background-color: blue;
+      width: 60vw;
+      height: 35vh;
+      position: absolute;
+      color: white;
+    }
+
+    .second-article {
+      bottom: 0;
+    }
+
+    footer {
+      background-color: grey;
+      width: 100vw;
+      height: 10vh;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    header
+  </header>
+  <nav>
+    nav bar
+  </nav>
+  <section>
+    <article>
+      article 1
+    </article>
+    <aside>
+      aside
+    </aside>
+    <article class='second-article'>
+      article 2
+    </article>
+  </section>
+  <footer>
+    footer
+  </footer>
+
+</body>
+
+</html>

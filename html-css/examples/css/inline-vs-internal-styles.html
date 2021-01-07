@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Internal Styles</title>
+  <meta name="author" content="HackYourFutureBelgium">
+
+  <style>
+    aside {
+      float: right;
+      border-style: dashed;
+      padding: 1%;
+    }
+
+    .fancy-text {
+      font-family: monospace;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- they look the same, but are written differently -->
+
+  <aside id='internal-styles'>
+    <p class="fancy-text">
+      To learn <strike>everything</strike> a lot about trees, <a href="https://en.wikipedia.org/wiki/Tree"
+        target="_blank">visit this
+        link</a>
+    </p>
+  </aside>
+
+  <aside id='inline-styles' style="float:right; border-style:dashed; padding:1%;">
+    <p style="font-family:monospace; font-style:italic;">
+      To learn <strike>everything</strike> a lot about trees, <a href="https://en.wikipedia.org/wiki/Tree"
+        target="_blank">visit this
+        link</a>
+    </p>
+  </aside>
+</body>
+
+</html>

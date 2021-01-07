@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CSS Units: em</title>
+  <meta charset='utf-8'>
+
+  <!-- Psst. click "inspect in a new tab" -->
+  <style>
+    .inner {
+      font-size: xx-small;
+      background-color: blue;
+      height: 2em;
+      width: 2em;
+    }
+
+    .middle {
+      font-size: medium;
+      background-color: red;
+      height: 2em;
+      width: 2em;
+    }
+
+    .outer {
+      font-size: xx-large;
+      background-color: yellow;
+      height: 2em;
+      width: 2em;
+    }
+
+    aside {
+      font-size: unset;
+      background-color: purple;
+      height: 2em;
+      width: 2em;
+      float: right;
+    }
+  </style>
+</head>
+
+<body>
+  <aside>aside</aside>
+  <section class='outer'>
+    <div class='middle'>
+      <div class='inner'>
+        inner
+      </div>
+      middle
+    </div>
+    outer
+  </section>
+</body>
+
+</html>

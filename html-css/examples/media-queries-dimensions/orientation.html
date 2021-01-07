@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Orientation</title>
+  <meta charset='utf-8'>
+
+  <!-- Psst. click "inspect in a new tab" -->
+  <style>
+    .boxes {
+      display: flex;
+      height: 100%;
+      width: 100%;
+    }
+
+    .box {
+      padding: 4%;
+      border: solid 1px;
+      text-align: center;
+    }
+
+    @media (orientation: landscape) {
+      .boxes {
+        flex-direction: row;
+      }
+    }
+
+    @media (orientation: portrait) {
+      .boxes {
+        flex-direction: column;
+      }
+    }
+
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/orientation */
+  </style>
+</head>
+
+<body>
+  <section class='boxes'>
+    <div class='box'>Box 1</div>
+    <div class='box'>Box 2</div>
+    <div class='box'>Box 3</div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,73 @@
+<html>
+
+<head>
+  <title>CSS Positioning Examples</title>
+  <style>
+    #wrap {
+      width: 100vw;
+      height: 100vh;
+      background: #5C5C5C;
+    }
+
+    #example_1 {
+      width: 30vw;
+      height: 30vh;
+      position: absolute;
+      left: 10vw;
+      top: 10vh;
+      background-color: #D8F5FF;
+    }
+
+    #example_2 {
+      width: 20vw;
+      height: 20vh;
+      position: relative;
+      top: 0vh;
+      right: 0vw;
+      background-color: #C1FFDB;
+
+    }
+
+    #example_3 {
+      width: 50vw;
+      height: 50vh;
+      position: relative;
+      top: 10vh;
+      left: 10vw;
+      background-color: #FFD7C2;
+    }
+
+    #example_4 {
+      width: 20vw;
+      height: 20vh;
+      position: absolute;
+      bottom: 10vh;
+      right: 20vw;
+      background-color: #FFC7E4;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="wrap">
+    <div id="example_1">
+      <p>The only containing element for this div is the main window, so it positions itself in relation to it.</p>
+    </div>
+
+    <div id="example_2">
+      <p>Relative positions itself in relation to its siblings.</p>
+    </div>
+
+    <div id="example_3">
+      <p>Relative to its sibling div above, but removed from flow of content.</p>
+
+      <div id="example_4">
+        <p>Absolute position inside of a parent with relative position</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- https://developer.mozilla.org/samples/cssref/css-positioning.html -->
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CSS Units: Percent</title>
+  <meta charset='utf-8'>
+
+  <!-- Psst. click "inspect in a new tab" -->
+  <style>
+    body {
+      /* height: 100vh; */
+      /* width: 100vw; */
+    }
+
+    .inner {
+      background-color: blue;
+      height: 20%;
+      width: 20%;
+    }
+
+    .middle {
+      background-color: red;
+      height: 60%;
+      width: 60%;
+    }
+
+    .outer {
+      background-color: yellow;
+      height: 100%;
+      width: 100%;
+    }
+
+    aside {
+      background-color: purple;
+      height: 10%;
+      width: 10%;
+      float: right;
+    }
+  </style>
+</head>
+
+<body>
+  <aside></aside>
+  <section class='outer'>
+    <div class='middle'>
+      <div class='inner'>
+
+      </div>
+
+    </div>
+
+  </section>
+</body>
+
+</html>
