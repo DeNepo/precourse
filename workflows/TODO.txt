@@ -1,0 +1,56 @@
+this is a first-draft todo list
+  there may be "chapters" missing, it's not on purpose
+  there are definitely workflows missing in each chapter
+
+about the videos
+  think of these as little references when a student is blocked, not where they go to learn a concept
+  you are showing how to do a basic workflow on your computer
+    these aren't full tutorials explaining everything
+    think of them more as maps to find your way around all the applications and buttons
+  no longer than 4-5 minutes, 1 minute is ok too
+    better to be short with a clear focus so it can be given a good title
+  .mp4 because it's lightweight and well-supported
+
+- browser devtools
+  - for things that work differently in different browsers:
+    say which browser you are using
+    or include both a chrome/ium browser and firefox
+  (x) inspecting an element
+  ( ) simulating different devices
+  ( ) inspecting a page's source (HTML & CSS only)
+  ( ) modifying a page from the elements tab
+  ( ) finding style definitions from an element in the DOM
+  ( ) ...
+
+- command line interface
+  ( ) cli command structure: $ program-name arguments (where prog-name is for the computer, args is for the app)
+  ( ) opening and navigating a directory (cd, ls, paths, ...)
+  ( ) editing a file (nano is probably best)
+  ( ) opening a folder in VSCode ($ code, https://code.visualstudio.com/docs/editor/command-line)
+  ( ) creating & deleting files/folders (beware of rm -rf!)
+  ( ) CLI app conventions: flags, "help", ...
+  ( ) ...
+
+- git
+  ( ) clone a repository (from github to vscode)
+  ( ) atomic commits: add and commit a few changes (small commits with good messages)
+  ( ) create and merge a branch
+  ( ) revert a change
+  ( ) ...
+
+- github
+  ( ) creating a repository & updating it's description
+  ( ) turning on github pages and adding the link to description
+  ( ) fork a repository, create and merge a pull request
+  ( ) ...
+
+- visual studio code
+  (x) writing markdown
+  ( ) installing extensions
+  ( ) updating preferences
+  ( ) using the command palette
+  ( ) opening a file with liveServer
+  ( ) opening the terminal & moving it around
+  ( ) adding, removing, renaming files/folders
+  ( ) open a folder, add a folder to your workspace, save/open a workspace
+  ( ) ...
