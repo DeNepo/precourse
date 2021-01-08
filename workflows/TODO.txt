@@ -23,6 +23,7 @@ about the videos
   ( ) ...
 
 - command line interface
+  - all students are expected to be on mac or linux, no need to show how to use windows
   ( ) cli command structure: $ program-name arguments (where prog-name is for the computer, args is for the app)
   ( ) opening and navigating a directory (cd, ls, paths, ...)
   ( ) editing a file (nano is probably best)
