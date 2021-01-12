@@ -25,7 +25,7 @@ about the videos
 - command line interface
   - all students are expected to be on mac or linux, no need to show how to use windows
   ( ) cli command structure: $ program-name arguments (where prog-name is for the computer, args is for the app)
-  ( ) opening and navigating a directory (cd, ls, paths, ...)
+  (x) opening and navigating a directory (cd, ls, paths, ...)
   ( ) editing a file (nano is probably best)
   ( ) opening a folder in VSCode ($ code, https://code.visualstudio.com/docs/editor/command-line)
   ( ) creating & deleting files/folders (beware of rm -rf!)
@@ -33,7 +33,7 @@ about the videos
   ( ) ...
 
 - git
-  ( ) clone a repository (from github to vscode)
+  (x) clone a repository (from github to vscode)
   ( ) atomic commits: add and commit a few changes (small commits with good messages)
   ( ) create and merge a branch
   ( ) revert a change
