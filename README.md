@@ -251,6 +251,12 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 
+### CSS References
+
+- [Fribly](https://fribly.com/category/coding/)
+- [CSS Tricks](https://css-tricks.com/guides/)
+- [CSS Reference](https://tympanus.net/codrops/css_reference/)
+
 [TOP](#precourse)
 
 ---
