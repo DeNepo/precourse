@@ -90,7 +90,7 @@ Besides preparing you to work with code like a pro, the precourse will give you 
 
 ### 1. Create Your Issue
 
-The first step is to [create a new issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) in your class repository using the `precourse` template. This template contains a check-list with all the Precourse Assignments.
+The first step is to [create a Precourse issue](https://hackyourfuturebelgium.github.io/precourse/workflows/index.html) in your class repository using the `precourse` template. This template contains a check-list with all the Precourse Assignments.
 
 As you complete the assignments you can click on the check-box to track your progress. You and your classmates will be able to see each other's issues, this is a good thing! HYF is built around collaboration. Feel free to read through each others' work, ask each other questions, and offer to help if you see someone is stuck.
 
