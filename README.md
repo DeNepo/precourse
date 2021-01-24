@@ -253,6 +253,7 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 
 ### CSS References
 
+- [Learn Layout](https://learnlayout.com/)
 - [Fribly](https://fribly.com/category/coding/)
 - [CSS Tricks](https://css-tricks.com/guides/)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
