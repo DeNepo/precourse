@@ -128,7 +128,7 @@ When you're ready to start your group repo, create a new issue in the class repo
 - [ ] [repo](https://github.com/_/_)
 - [ ] [many small, well-named commits](https://github.com/_/_/commits)
 - [ ] a nice README and one file per group member
-- [ ] (challenge) [a pull requests for each group member](https://github.com/_/_/pulls)
+- [ ] [one pull requests for each group member](https://github.com/_/_/pulls)
 ```
 
 Writing code is still writing!
