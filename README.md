@@ -209,6 +209,7 @@ Some study links that can help you through the Precourse Assignments. Can't find
 - [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
 - [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
 - [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) (and there's a part two)
+- [What happens when ...](https://github.com/alex/what-happens-when) you google something?
 
 ### Visual Studio Code (VSCode)
 
@@ -220,6 +221,10 @@ VSC is the text editor you will use to write code at HYF. And it's way more than
   - [tutorial step-through](https://code.visualstudio.com/docs/introvideos/basics)
   - [get started](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Tips for HTML/CSS/JS](https://www.youtube.com/watch?v=bJiIzz8mFMs)
+- Are you using Windows?
+  - [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  - [WSL with VSCode](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
+  - [nvm command not found](https://dev.to/duhbhavesh/nvm-command-not-found-1ho)
 
 ### Command Line Interface (CLI)
 
@@ -239,6 +244,7 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - Learn to visualize what happens inside of Git with [learngitbranching](https://learngitbranching.js.org/)
   - [A Video Guide](https://www.youtube.com/watch?v=dG0ke9vILQM)
+- [ohmygit](https://ohmygit.org/) - a git game
 - [lab.github.com/githubtraining](https://lab.github.com/githubtraining/paths/)
 - [Getting Started with GitHub](https://help.github.com/en/github/getting-started-with-github)
 - [Creating a GitHub Repository](https://www.youtube.com/watch?v=WfhRyz3Wf4o)
@@ -257,6 +263,13 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [Fribly](https://fribly.com/category/coding/)
 - [CSS Tricks](https://css-tricks.com/guides/)
 - [CSS Reference](https://tympanus.net/codrops/css_reference/)
+
+### Slack
+
+- [sharing code](https://www.youtube.com/watch?v=rKGYKX9xjV8)
+- Etiquette
+  - [slack.com](https://slack.com/intl/en-be/blog/collaboration/etiquette-tips-in-slack)
+  - [hiverhq.com](https://hiverhq.com/blog/slack-etiquette)
 
 [TOP](#precourse)
 
