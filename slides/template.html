@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Asynchronous Programming: Week 1</title>
+
+
+  <link rel="stylesheet" href="../lib/reveal.js/css/reset.css">
+  <link rel="stylesheet" href="../lib/reveal.js/css/reveal.css">
+  <link rel="stylesheet" href="../lib/reveal.js/css/theme/night.css">
+
+
+
+  <style>
+    /* https://stackoverflow.com/questions/25479420/how-to-add-a-fixed-footer-on-all-slides */
+    .reveal .footer {
+      position: absolute;
+      bottom: 1em;
+      left: 1em;
+      font-size: 0.5em;
+      /* z-index: 1000; */
+    }
+  </style>
+</head>
+
+<body>
+
+
+  <div class="reveal">
+    <div class='footer'>
+      <ul id='footer-links' style='visibility: hidden;'>
+        <li>
+          </a><a id='to-sketchpad' href="https://hackyourfuturebelgium.github.io/sketchpad/" target="_blank">
+            <code>sketch pad</code>
+          </a>
+        </li>
+        <li>
+          <!-- other helpful links: the repo, hyf home, ... -->
+        </li>
+      </ul>
+      <br>
+      <code id="footer-text">ESC to overview</code>
+    </div>
+
+
+    <div class="slides">
+
+      <section id='single-page-slide'>
+      </section>
+
+
+      <section id="multi-page-slide">
+        <section>
+        </section>
+
+        <section>
+        </section>
+
+        <section>
+        </section>
+
+        <!-- ... -->
+      </section>
+
+
+
+    </div>
+  </div>
+
+  <script src="../lib/reveal.js/js/reveal.js"></script>
+
+  <script>
+    // More info about config & lib:
+    // - https://github.com/hakimel/reveal.js#configuration
+    // - https://github.com/hakimel/reveal.js#lib
+    Reveal.initialize({
+      controlsTutorial: true,
+      slideNumber: 'h/t',
+      hash: true,
+      help: true,
+      width: "100%",
+      height: "100%",
+      keyboard: {
+        // 67: function () { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+        // 66: function () { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+        // 46: function () { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+        // 8: function () { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+        // 68: function () { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+        // 88: function () { RevealChalkboard.colorNext() },	// cycle colors forward when 'x' is pressed
+        // 89: function () { RevealChalkboard.colorPrev() },	// cycle colors backward when 'y' is pressed
+      },
+      lib: [
+        { src: '../lib/reveal.js/plugin/notes/notes.js', async: true },
+      ],
+    });
+
+    Reveal.addEventListener('overviewshown', function (event) {
+      document.getElementById('footer-text').innerHTML = "ESC into slide";
+      document.getElementById('footer-links').style.visibility = 'visible';
+    });
+    Reveal.addEventListener('overviewhidden', function (event) {
+      document.getElementById('footer-text').innerHTML = "ESC to overview";
+      document.getElementById('footer-links').style.visibility = 'hidden';
+    });
+
+
+
+  </script>
+</body>
+
+</html>
