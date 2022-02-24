@@ -12,6 +12,11 @@ It'll take a little while to learn how to keep this all organized in your head a
 
 This module's main objective is to get you comfortable with the workflows of programming and of Hack Your Future BE. The finished projects won't be complex or impressive to an outsider, but to complete them you will need to have a basic overview of the entire development process. Including: ideation, local development, pushing and pulling to github, and hosting static web pages.
 
+- [Learning Objectives](#learning-objectives)
+- [How To HYF](#how-to-hyf)
+- [Suggested Study](./suggested-study.md)
+- 
+
 ## Learning Objectives
 
 <details>
@@ -84,5 +89,3 @@ Your class repository is the home base for each module and all assignments at HY
 - Submit check-ins and projects
 - Get feedback from coaches
 - Share helpful study resources
-
-[TOP](./#precourse)
