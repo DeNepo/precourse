@@ -15,7 +15,7 @@ This module's main objective is to get you comfortable with the workflows of pro
 - [Learning Objectives](#learning-objectives)
 - [How To HYF](#how-to-hyf)
 - [Suggested Study](./suggested-study.md)
-- 
+- [Deliverables](./deliverables.md)
 
 ## Learning Objectives
 
