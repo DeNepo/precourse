@@ -68,6 +68,7 @@ These are a few VSCode extensions that will make your life easier. Find another 
 - **For writing any code**
   - [ ] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - [ ] [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview) with [format on save](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code#step-2-%E2%80%94-formatting-code-on-save)
+  - [ ] [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
 - **For writing Markdown**
   - [ ] [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
   - [ ] [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
