@@ -123,4 +123,4 @@ When you're done your computer's folders should be organized something like this
 
 ## 6. Workflows Prep Work
 
-[right here!](../workflows/chapter-1.md)
+[right here!](https://github.com/HackYourFutureBelgium/workflows)
