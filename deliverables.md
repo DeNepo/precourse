@@ -26,7 +26,7 @@ As you complete the assignments you can click on the check-box to track your pro
 
 Before getting to work you will need to make sure your computer is ready to go. In the _Software Installations_ and _VSCode Extensions_ sections of your `precourse` issue is a list of the softwares you will need to succeed at HYF.
 
-- [ ] [Slack](https://slack.com/intl/en-be/downloads/) - for all HYF communication
+- [ ] [Discord](https://discord.com/download) - for all HYF communication
 - [ ] [Zoom](https://zoom.us/support/download) - for online class
 - [ ] Modern Browsers with good DevTools, it's good to practice with all of them:
   - [Chromium](https://download-chromium.appspot.com/), and/or [Chrome](https://www.google.com/chrome/)
