@@ -92,7 +92,6 @@ You will be working with many files and folders, it's best to start out organize
   - Try using Markdown for your notes!
   - Looking to share everything you've learned? You can also push your notes to a Github repo ;\)
 - [ ] Inside your new "/hack-my-future", create a folder for the Precourse called "/00-precourse" \(or something similar\)
-  - You can use this folder to clone the [Precourse repository](https://github.com/hackyourfuturebelgium/precourse), and to store all your Precourse work
 
 When you're done your computer's folders should be organized something like this:
 
