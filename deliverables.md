@@ -35,7 +35,7 @@ Before getting to work you will need to make sure your computer is ready to go. 
   - [Responsively](https://responsively.app/) - a browser with extra features for developing responsive and accessible user interfaces
   - [Replay](https://www.replay.io/) - record your web pages as you use them and share your recordings to collaboratively study or debug. Super helpful when you start learning JavaScript!
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used write and edit your code
-- [ ] [git](https://git-scm.com/downloads) (for Mac and Linux)
+- [ ] [git](https://git-scm.com/downloads) for Mac and Linux, or [git for windows](https://gitforwindows.org/)
 - [ ] [Node.js](https://nodejs.org/en/)
 - [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way around the CLI
 - GitHub Desktop (optional)
@@ -74,8 +74,11 @@ These are a few VSCode extensions that will make your life easier. Find another 
   - [ ] [Markdown All-In-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   - [ ] [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 - **For writing HTML/CSS**
-  - [ ] [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
   - [ ] [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [ ] [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+  - [ ] [HTML Hint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+  - [ ] [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+  - [ ] [Intellisense for CSS](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - **For writing JavaScript**
   - [ ] [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [ ] [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
