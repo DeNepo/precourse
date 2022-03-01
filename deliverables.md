@@ -35,9 +35,10 @@ Before getting to work you will need to make sure your computer is ready to go. 
   - [Responsively](https://responsively.app/) - a browser with extra features for developing responsive and accessible user interfaces
   - [Replay](https://www.replay.io/) - record your web pages as you use them and share your recordings to collaboratively study or debug. Super helpful when you start learning JavaScript!
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used write and edit your code
+- [ ] [git](https://git-scm.com/downloads) (for Mac and Linux)
 - [ ] [Node.js](https://nodejs.org/en/)
 - [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way around the CLI
-- GitHub Desktop \(optional\)
+- GitHub Desktop (optional)
   - This can help you get started with Git & GitHub, but does not replace learning to use your CLI
   - [Mac](https://desktop.github.com/)
   - [Linux](https://github.com/shiftkey/desktop#debianubuntu-distributions)
