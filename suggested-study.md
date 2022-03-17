@@ -2,6 +2,8 @@
 
 Some study links that can help you through the Precourse Assignments. Can't find what you're looking for? Head over to the [Study Book](https://hackyourfuture.github.io/study) for a whole lot more!
 
+Super detailed info with screenshots about setting up Linux within VirtualBox, git & GitHub SSH setup, repos, basic HTML/CSS/JS from thw wonderful [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
 ## Being a Developer
 
 - [Be reasonable with yourself](http://norvig.com/21-days.html) - Programming takes work, then more work, followed by a lot of practice.
