@@ -2,7 +2,7 @@
 
 Some study links that can help you through the Precourse Assignments. Can't find what you're looking for? Head over to the [Study Book](https://hackyourfuture.github.io/study) for a whole lot more!
 
-Super detailed info with screenshots about setting up Linux within VirtualBox, git & GitHub SSH setup, repos, basic HTML/CSS/JS from thw wonderful [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
+Super detailed info with screenshots about setting up Linux within VirtualBox, git & GitHub SSH setup, repos, basic HTML/CSS/JS from the wonderful [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
 ## Being a Developer
 
