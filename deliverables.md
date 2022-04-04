@@ -83,6 +83,7 @@ These are a few VSCode extensions that will make your life easier. Find another 
   - [ ] [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [ ] [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   - [ ] [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+  - [ ] [Dependency Cruiser](https://marketplace.visualstudio.com/items?itemName=juanallo.vscode-dependency-cruiser)
 
 ## 4. Organize Your Computer
 
