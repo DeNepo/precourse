@@ -2,6 +2,8 @@
 
 Some study links that can help you through the Precourse Assignments. Can't find what you're looking for? Head over to the [Study Book](https://hackyourfuture.github.io/study) for a whole lot more!
 
+Super detailed info with screenshots about setting up Linux within VirtualBox, git & GitHub SSH setup, repos, basic HTML/CSS/JS from the wonderful [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
+
 ## Being a Developer
 
 - [Be reasonable with yourself](http://norvig.com/21-days.html) - Programming takes work, then more work, followed by a lot of practice.
@@ -52,4 +54,6 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 
 ## Discord
 
+- [How to format text and paste in code blocks on Discord](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 - [Instructions](https://github.com/HackYourFutureBelgium/home/blob/9c48d8ba996cb8d2d09f37af7fe87387c48e44ee/curriculum/precourse/assets/Discord.pdf)
+
