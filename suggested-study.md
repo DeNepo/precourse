@@ -57,3 +57,6 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - [How to format text and paste in code blocks on Discord](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 - [Instructions](https://github.com/HackYourFutureBelgium/home/blob/9c48d8ba996cb8d2d09f37af7fe87387c48e44ee/curriculum/precourse/assets/Discord.pdf)
 
+## Terminal
+
+- [Excellent blog post about the Terminal & NPM & small tricks](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
