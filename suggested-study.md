@@ -4,6 +4,17 @@ Some study links that can help you through the Precourse Assignments. Can't find
 
 Super detailed info with screenshots about setting up Linux within VirtualBox, git & GitHub SSH setup, repos, basic HTML/CSS/JS from the wonderful [the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations).
 
+## How to Use Operating Systems
+
+- [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+  - Windows Users
+    - [Windows 10 for Beginners Tutorial](https://www.youtube.com/watch?v=B-dYlgMMhEk&ab_channel=LearnitTraining)
+  - Ubuntu Users
+    - [Linux Essentials - Beginner Crash Course (Ubuntu)](https://www.youtube.com/watch?v=n_2jPbQornY&ab_channel=Herbertech)
+  - keyboard layouts and training
+    - [QWERTY](https://www.qwerty.expert/guest/ITMSCYRG/practice)
+    - [AZERTY](https://www.typinglessons-online.com/SelectExerciseWithCharacters?GroupIndex=8)
+
 ## Being a Developer
 
 - [Be reasonable with yourself](http://norvig.com/21-days.html) - Programming takes work, then more work, followed by a lot of practice.
@@ -23,20 +34,20 @@ Super detailed info with screenshots about setting up Linux within VirtualBox, g
 
 - [Foundations of the Web](https://shawnr.gitbooks.io/foundations-of-the-web/)
 - [The Odin Project's intro](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
-- [Time-Lapse Maps of the Internet ](https://www.vox.com/a/internet-maps)
+- [Time-Lapse Maps of the Internet](https://www.vox.com/a/internet-maps)
 - [internet for webdevs](https://www.youtube.com/watch?v=e4S8zfLdLgQ) \(and there's a part two\)
 - What happens when you google something? [article](https://github.com/alex/what-happens-when), [video](https://www.youtube.com/watch?v=dh406O2v_1c)
 
 ## Visual Studio Code
 
 - Full Tutorials
-  - [IHateTomatoes](https://www.youtube.com/playlist?list=PLkEZWD8wbltm8T3mS7SMCpT6WlnyIP50T)
-  - [Tech with Tim](https://www.youtube.com/watch?v=ORrELERGIHs)
-  - [Microsoft](https://code.visualstudio.com/docs/introvideos/basics)
-  - [Academind](https://www.youtube.com/watch?v=VqCgcpAypFQ)
+  - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
+  - [Learn Visual Studio Code](https://www.youtube.com/watch?v=yjeHLSrhPao&ab_channel=CodingwithEstefania)
+  - [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo&ab_channel=freeCodeCamp.org)
+  - [VSCode Tutorial For Beginners](https://www.youtube.com/watch?v=ORrELERGIHs&ab_channel=TechWithTim)
 - Writing Markdown in VSCode
-  - [Traversy](https://www.youtube.com/watch?v=HUBNt18RFbo)
-  - [James Q Quick](https://www.youtube.com/watch?v=pTCROLZLhDM)
+  - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
+  - [Introduction to Markdown in Visual Studio Code](https://www.youtube.com/watch?v=pTCROLZLhDM&ab_channel=JamesQQuick)
 
 ## Git and GitHub
 
@@ -46,11 +57,23 @@ Git and GitHub are how you will do _everything_ while at HackYourFuture. Homewor
 - Learn to visualize what happens inside of Git with [learngitbranching](https://learngitbranching.js.org/)
   - [A Video Guide](https://www.youtube.com/watch?v=dG0ke9vILQM)
 - [ohmygit](https://ohmygit.org/) - a git game
-- [lab.github.com/githubtraining](https://lab.github.com/githubtraining/paths/)
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 - [Getting Started with GitHub](https://help.github.com/en/github/getting-started-with-github)
-- [Creating a GitHub Repository](https://www.youtube.com/watch?v=WfhRyz3Wf4o)
-- [Creating a local repo and push](https://www.youtube.com/watch?v=vbQ2bYHxxEA)
+- [Create and clone a new repository on GitHub](https://www.youtube.com/watch?v=Oz8rtnBJHlA&ab_channel=KahanDataSolutions)
+- [How to git push an existing project to GitHub](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-push-an-existing-project-to-GitHub)
 - and much more at [hackyourfuture.github.io/study](https://hackyourfuture.github.io/study)
+
+## Slack
+
+- [Slack tutorials](https://www.youtube.com/playlist?list=PLbuS6lXApAH-I0Vaag2O4L5bnAtmwzZrO)
+- [How to Use Slack on Mobile](https://www.youtube.com/watch?v=QAUEAUlnnCQ&ab_channel=AppOfTheDay)
+- [25 Time-Saving Slack Integrations You Should Check Out](https://www.youtube.com/watch?v=Oq-Q0jh7H3o&ab_channel=Kinsta)
+- [Slack: How to Create or Join a Channel](https://www.youtube.com/watch?v=-jplVzYa2QI&ab_channel=ASULearningExperience%28LX%29)
+- [How To Leave a Channel in Slack](https://www.youtube.com/watch?v=XQnjfj-Hu8A&ab_channel=CheckmarkTutorials)
+- [How To Be Always Online On Slack](https://www.youtube.com/watch?v=xTid1A0PAIs&list=PLbuS6lXApAH-I0Vaag2O4L5bnAtmwzZrO&index=8&ab_channel=CheckmarkTutorials)
+- [How To Enable Notifications in Slack](https://www.youtube.com/watch?v=D_QDM9IoTN8&list=PLbuS6lXApAH-I0Vaag2O4L5bnAtmwzZrO&index=24&ab_channel=CheckmarkTutorials)
+- [How To Reply To a Specific Message in a Thread in Slack](https://www.youtube.com/watch?v=8KE8Qnp2Beo&list=PLbuS6lXApAH-I0Vaag2O4L5bnAtmwzZrO&index=52&ab_channel=CheckmarkTutorials)
+- [How To Set Reminder in Slack](https://www.youtube.com/watch?v=SCptDZbguuc&list=PLbuS6lXApAH-I0Vaag2O4L5bnAtmwzZrO&index=39&ab_channel=CheckmarkTutorials)
 
 ## Discord
 

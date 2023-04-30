@@ -12,10 +12,14 @@ It'll take a little while to learn how to keep this all organized in your head a
 
 This module's main objective is to get you comfortable with the workflows of programming and of Hack Your Future BE. The finished projects won't be complex or impressive to an outsider, but to complete them you will need to have a basic overview of the entire development process. Including: ideation, local development, pushing and pulling to github, and hosting static web pages.
 
-- [Learning Objectives](#learning-objectives)
-- [How To HYF](#how-to-hyf)
-- [Suggested Study](./suggested-study.md)
-- [Deliverables](./deliverables.md)
+<!-- Table of content -->
+
+- Table of Content
+  - [Learning Objectives](#learning-objectives)
+  - [How to HYF](#how-to-hyf)
+  - [Deliverables](#deliverables)
+  - [Slack/Discord](#slackdiscord)
+  - [Class Repository](#class-repository)
 
 ## Learning Objectives
 
@@ -50,7 +54,7 @@ your study time and to measure your progress:
   - [ ] 🥚 **Searching Issues**: You can find issues in a repository by label, author, and milestone.
   - [ ] 🥚 **Project Boards**: You can use issues on a GitHub project board to track your class assignments and help your classmates when they need it.
 - **HYF Workflows**:
-  - [ ] 🥚 **Check-Ins**: You can use the `check-in` template to track your module learning objectives, your weekly progress (and to post a retrospective at the end of the module). You create one check-in issue per module in the class repo and each Thursday you add a check-in comment to it and the label for the corresponding week. After review, we add the checked label. No need to remove previous labels either. So as an example, after a 5 week module, you would have 5 comments and 5 labels added by you. 
+  - [ ] 🥚 **Check-Ins**: You can use the `check-in` template to track your module learning objectives, your weekly progress (and to post a retrospective at the end of the module). You create one check-in issue per module in the class repo and each Thursday you add a check-in comment to it and the label for the corresponding week. After review, we add the checked label. No need to remove previous labels either. So as an example, after a 5 week module, you would have 5 comments and 5 labels added by you.
   - [ ] 🥚 **Deliverables**: You can create an issue for this module's `deliverable` and track your progress on the class project board. Each week, there are different assignments / deliverables. If it is an individual project, you create your own deliverable issue for it in the class repo. If it is a group project, the entire group creates 1 issue together in the class repo.
   - [ ] 🥚 **Asking for Help**: You can use the `help-wanted` template in your class repository's Discussion board to ask for help, and to help your classmates when they are blocked.
 - **Your Computer**:
@@ -69,15 +73,19 @@ You can expect a growing network, friendships, Sunday fun, a lot of learnings, h
 
 Take a look through our [Core Values](https://home.hackyourfuture.be/core-values) and [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct) so we can make the web a better place together!
 
-### Discord
+## Deliverables
+
+[Precourse deliverable](./deliverables.md) contains the assignment for this week and the instructions to solve the assignment. Please read it carefully.
+
+## Slack/Discord
 
 > _how we communicate_
 
-Discord is used to communicate between coaches and students during the week. Each class has their own channel in Discord where you can discuss anything that comes to mind.
+Slack/Discord is used to communicate between coaches and students during the week. Each class has their own channel in Discord where you can discuss anything that comes to mind.
 
-We require you to be active on Discord and ask questions when you get stuck. You are also required to help each other out when one of your peers is stuck. What's the point in asking for help if no one is there to help?!
+We require you to be active on Slack/Discord and ask questions when you get stuck. You are also required to help each other out when one of your peers is stuck. What's the point in asking for help if no one is there to help?!
 
-### Class Repository
+## Class Repository
 
 > _how we collaborate_
 
