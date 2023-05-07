@@ -15,10 +15,11 @@ This module's main objective is to get you comfortable with the workflows of pro
 <!-- Table of content -->
 
 - Table of Content
-  - [Learning Objectives](#learning-objectives)
+  - [Learning Objectives](#learning-objectives): What you will learn from this module
   - [How to HYF](#how-to-hyf)
-  - [Deliverables](#deliverables)
-  - [Slack/Discord](#slackdiscord)
+  - [Suggested Studies](#suggested-studies): Helpful links for this module
+  - [Deliverables](#deliverables): Projects to practice applying the learning objectives in context
+  - [Slack/Discord](#slackdiscord): How we communicate
   - [Class Repository](#class-repository)
 
 ## Learning Objectives
@@ -72,6 +73,10 @@ We are a community of people who want to make the web a better place.
 You can expect a growing network, friendships, Sunday fun, a lot of learnings, hard times getting stuck in code, and satisfaction when you reach your goals.
 
 Take a look through our [Core Values](https://home.hackyourfuture.be/core-values) and [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct) so we can make the web a better place together!
+
+## Suggested Studies
+
+[Precourse Suggested Study](./suggested-study.md) helpful and useful links for this module, you will learn different tools and concepts.
 
 ## Deliverables
 

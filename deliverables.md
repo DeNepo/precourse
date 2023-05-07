@@ -145,7 +145,7 @@ When you're done your computer's folders should be organized something like this
   - [Managing GitHub profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
   - [GitHub profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - you can find other ways to write [Markdown](https://www.markdowntutorial.com/)
 - [ ] Connect to GitHub with SSH
-  - this can be tricky! we're here to help each other on Slack/
+  - this can be tricky! we're here to help each other on Slack.
   - this is a long but thorough explanation (starting at step 2.3): [odin project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
 - [ ] Watch your class repository
   - Click the `Watch` button in the upper-right of the repo
