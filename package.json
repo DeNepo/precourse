@@ -9,12 +9,16 @@
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
+  "keywords": [
+    "HackYourFuture Belgium",
+    "Precourse"
+  ],
   "author": "HackYourFuture Belgium",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.11.0",
-    "cspell": "^5.9.0",
-    "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2"
+    "@ls-lint/ls-lint": "^1.11.2",
+    "cspell": "^6.31.1",
+    "markdownlint-cli": "^0.34.0",
+    "prettier": "^2.8.8"
   }
 }

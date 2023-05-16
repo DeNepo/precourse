@@ -32,7 +32,7 @@ git & GitHub SSH setup, repos, basic HTML/CSS/JS from the wonderful
 - [What do programmers do?](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 - [Key to being a developer](https://medium.com/@rhamedy/key-habits-and-things-i-wish-i-knew-earlier-as-a-developer-43c9466a0407)
 - [Top 8 Developer Habits](https://www.youtube.com/watch?v=DwQ7psiU23I&index=1&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu)
-- [peternixey](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)-
+- [How to be a great software developer](https://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)-
   long, but worth every word.
 - [comparing yourself to others](https://medium.freecodecamp.org/a-better-way-to-compare-yourself-43cf37616570)
 - [Write Code Every Day](https://johnresig.com/blog/write-code-every-day/)

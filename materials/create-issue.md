@@ -8,10 +8,11 @@ complete the tasks, the issue will keep track of your progress:
 1. [ ] Create this issue
 2. [ ] Look through the guides in your class repo
 3. [ ] Install softwares
-4. [ ] Install VSCode extensions
+4. [ ] Install VS Code extensions
 5. [ ] Organize my computer
 6. [ ] GitHub setup
-7. [ ] Prep work for Workflows Week 1
+7. [ ] Git setup
+8. [ ] Prep work for Workflows Week 1
 
 <!-- Welcome to HYF :) -->
 ```
@@ -27,5 +28,5 @@ is a good thing! HYF is built around collaboration. Feel free to read through
 each others' work, ask each other questions, and offer to help if you see
 someone is stuck.
 
-NOTE : we have different types of issues `Deliverable`, `check-in` and normal
+NOTE : there are different types of issues: `Deliverable`, `check-in` and normal
 `issue`
