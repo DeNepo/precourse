@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "words": [
+    "Nepo",
+    "Precourse",
+    "precourse",
+    "itechguides",
+    "adamtheauthor",
+    "stackoverflow",
+    "Blockman",
+    "Glasbergen",
+    "AZERTY",
+    "peternixey",
+    "webdevs",
+    "learngitbranching",
+    "ohmygit",
+    "hackyourfuture"
+  ],
+  "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
+}
