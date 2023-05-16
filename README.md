@@ -22,9 +22,9 @@ development, pushing and pulling to github, and hosting static web pages.
 
 - [Precourse](#precourse)
   - [Learning Objectives](#learning-objectives)
-  - [suggested study](#suggested-study)
+  - [Suggested Study](#suggested-study)
   - [How to HYF](#how-to-hyf)
-  - [Lesson plans](#lesson-plans)
+  - [Lesson Plans](#lesson-plans)
   - [Deliverables](#deliverables)
   - [Class Repository](#class-repository)
 
@@ -91,9 +91,9 @@ study time and to measure your progress:
   - [ ] 🥚 Create new files/folders inside of the folder
   - [ ] 🥚 Edit files and save changes
 
-## suggested study
+## Suggested Study
 
-[suggested study](./suggested-study.md)
+[CLICK HERE](./suggested-study.md)
 
 ## How to HYF
 
@@ -107,13 +107,13 @@ Take a look through our
 [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct) so we can make
 the web a better place together!
 
-## Lesson plans
+## Lesson Plans
 
-[click here](./lesson-plans/README.md)
+[CLICK HERE](./lesson-plans/README.md)
 
 ## Deliverables
 
-[click here](./deliverables/README.md)
+[CLICK HERE](./deliverables/README.md)
 
 ## Class Repository
 
