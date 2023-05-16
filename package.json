@@ -1,7 +1,16 @@
 {
   "name": "precourse",
-  "version": "2.0.0",
-  "description": "Materials for the precourse module at HackYourFuture Belgium",
+  "version": "1.0.0",
+  "description": "> ![miscommunication](./assets/cant-you-do-anything-right.jpeg) > > - [Randy Glasbergen](https://www.glasbergen.com/)",
+  "main": "index.js",
+  "dependencies": {
+    "@ls-lint/ls-lint": "^1.11.0",
+    "cspell": "^5.9.0",
+    "markdownlint-cli": "^0.28.1",
+    "prettier": "^2.3.2",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
@@ -9,12 +18,15 @@
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
-  "author": "HackYourFuture Belgium",
-  "license": "MIT",
-  "devDependencies": {
-    "@ls-lint/ls-lint": "^1.11.0",
-    "cspell": "^5.9.0",
-    "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackYourFutureBelgium/precourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackYourFutureBelgium/precourse/issues"
+  },
+  "homepage": "https://github.com/HackYourFutureBelgium/precourse#readme"
 }
