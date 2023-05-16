@@ -1,0 +1,21 @@
+name: lint
+
+on:
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - run: npm install
+
+      - run: npm run format:check
+
+      - run: npm run lint:ls
+      - run: npm run lint:md
