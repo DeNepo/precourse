@@ -1,7 +1,8 @@
 # Deliverables
 
-Are your ready to rock and roll?! Below are some assignments to complete _before_ the first day of class,
-if you finish them all you should be ready to hit the ground running.
+Are your ready to rock and roll?! Below are some assignments to complete
+_before_ the first day of class, if you finish them all you should be ready to
+hit the ground running.
 
 1. create a new [deliverable issue](../materials/create-issue.md)
 2. install [softwares](../materials/install-softwares.md)
