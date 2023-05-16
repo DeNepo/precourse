@@ -10,6 +10,7 @@ jobs:
     steps:
       - run: npm install
 
+      - run: npm run format
       - run: npm run format:check
 
       - run: npm run lint:ls
