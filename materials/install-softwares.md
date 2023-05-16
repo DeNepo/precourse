@@ -22,3 +22,69 @@ Before getting to work you will need to make sure your computer is ready to go. 
     -   [setup a Linux SubSystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 -   You will need to update to Windows 10: [itechguides](https://www.itechguides.com/windows-subsystem-for-linux/), [adamtheauthor](https://adamtheautomator.com/windows-subsystem-for-linux/)
     -   [Learn to open VSCode with your SubSystem](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
+
+## Git
+
+### On Mac
+
+1. press `command` and `space` and type `terminal` then click `enter`
+2. in the `terminal` type `git --version` if you got a version then you already
+   have git.
+3. if you didn't get a version then you need to install `Homebrew`
+4. paste this in your terminal and click `enter`
+
+    ```markdown
+    /bin/bash -c "$(curl -fsSL
+    https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+
+5. after you installed `Homebrew` , use the command `brew install git` to
+   install git.
+
+### on Windows
+
+1. click on the `search` icon and type `cmd`.
+2. type `git --version` if you got a version then you already have `git`
+3. if not [install git for Windows](https://gitforwindows.org/)
+
+### on Linux
+
+1. It depends on your distribution, if you are using `Ubuntu`
+2. open your terminal and type `git --version`
+3. if you didn't get a version then type in your terminal
+4. `sudo apt update`
+5. `sudo apt install git`
+
+## Node
+
+### On Mac
+
+-   press `command` and `space` and type `terminal` then click `enter`
+-   in the `terminal` type `node -v` if you got a version then you already have
+    it.
+-   If you didn't get a version just then you need to install `Homebrew` if you
+    don't have it already
+-   paste this in your terminal and click `enter`
+
+    ```markdown
+    /bin/bash -c "$(curl -fsSL
+    https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+
+-   after you installed `Homebrew` , use the command `brew install node` to
+    install node.
+
+### on Windows
+
+-   click on the `search` icon and type `cmd`.
+-   type `node -v` if you got a version then you already have `node`
+-   if not [install node for Windows](https://nodejs.org/en/download)
+
+### on Linux
+
+-   It depends on your distribution, if you are using `Ubuntu`
+-   open your terminal and type `node -v`
+-   if you didn't get a version then
+-   `sudo apt update`
+-   `sudo apt install node.js`
+-   `sudo apt install npm`

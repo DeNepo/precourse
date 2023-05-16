@@ -12,12 +12,13 @@ It'll take a little while to learn how to keep this all organized in your head a
 
 This module's main objective is to get you comfortable with the workflows of programming and of Hack Your Future BE. The finished projects won't be complex or impressive to an outsider, but to complete them you will need to have a basic overview of the entire development process. Including: ideation, local development, pushing and pulling to github, and hosting static web pages.
 
--   [Precourse](#precourse)
-    -   [Learning Objectives](#learning-objectives)
-    -   [How to HYF](#how-to-hyf)
-    -   [Lesson plans](#lesson-plans)
-    -   [Deliverables](#deliverables)
-    -   [Class Repository](#class-repository)
+- [Precourse](#precourse)
+  - [Learning Objectives](#learning-objectives)
+  - [suggested study](#suggested-study)
+  - [How to HYF](#how-to-hyf)
+  - [Lesson plans](#lesson-plans)
+  - [Deliverables](#deliverables)
+  - [Class Repository](#class-repository)
 
 ## Learning Objectives
 
@@ -62,6 +63,10 @@ your study time and to measure your progress:
     -   [ ] 🥚 Open a folder for editing
     -   [ ] 🥚 Create new files/folders inside of the folder
     -   [ ] 🥚 Edit files and save changes
+
+## suggested study
+
+[suggested study](./suggested-study.md)
 
 ## How to HYF
 

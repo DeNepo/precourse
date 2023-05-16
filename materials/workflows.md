@@ -1,3 +1,3 @@
 # Workflows Prep Work
 
-[right here!](https://github.com/HackYourFutureBelgium/workflows)
+[Workflows](https://github.com/HackYourFutureBelgium/workflows)
