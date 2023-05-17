@@ -8,12 +8,9 @@
 -->
 
 <!-- describe your PR -->
-
-<!-- markdownlint-disable MD002 MD041 -->
+<!-- markdownlint-disable-next-line first-line-heading first-heading-h1 -->
 
 ## Description
-
-<!-- markdownlint-disable MD002 MD041 -->
 
 <!-- A clear and concise description of what the Pull Request is about. -->
 
