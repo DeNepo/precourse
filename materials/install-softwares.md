@@ -4,16 +4,13 @@ Before getting to work you will need to make sure your computer is ready to go.
 In the _Software Installations_ and _VSCode Extensions_ sections of your
 `precourse` issue is a list of the softwares you will need to succeed at HYF.
 
-<!-- markdownlint-disable MD013 -->
-
 - [ ] [Slack](https://slack.com/) -
-    [Slack Windows](https://slack.com/downloads/windows) -
-    [Slack Mac](https://slack.com/downloads/mac) -
-    [Slack Linux](https://slack.com/downloads/linux) -
-    [Slack Android](https://play.google.com/store/apps/details?id=com.Slack&hl=en&gl=US) -
-    [Slack iOS](https://apps.apple.com/us/app/slack/id618783545) - for all HYF
-    communication
-<!-- markdownlint-enable MD013 -->
+      [Slack Windows](https://slack.com/downloads/windows) -
+      [Slack Mac](https://slack.com/downloads/mac) -
+      [Slack Linux](https://slack.com/downloads/linux) -
+      [Slack Android](https://play.google.com/store/apps/details?id=com.Slack&hl=en&gl=US) -
+      [Slack iOS](https://apps.apple.com/us/app/slack/id618783545) - for all HYF
+      communication
 - [ ] [Discord](https://discord.com/download) - for all HYF communication
 - [ ] [Zoom](https://zoom.us/support/download) - for online class
 - [ ] Modern Browsers with good DevTools, it's good to practice with all of

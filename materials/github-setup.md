@@ -6,10 +6,8 @@
   - [How to change GitHub username](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/changing-your-github-username#changing-your-username)
   - [Personalizing GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile)
   - [Managing GitHub profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-  <!-- markdownlint-disable MD013 -->
   - [GitHub profile README generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) -
     you can find other ways to write
-    <!-- markdownlint-enable MD013 -->
     [Markdown](https://www.markdowntutorial.com/)
 - [ ] Connect to GitHub with SSH
   - This can be tricky! we're here to help each other on Slack.
