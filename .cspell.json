@@ -19,7 +19,8 @@
     "autocrlf",
     "Stylelint",
     "Intelli",
-    "orginze"
+    "orginze",
+    "chsh"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }

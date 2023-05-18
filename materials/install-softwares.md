@@ -109,3 +109,54 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 - `sudo apt update`
 - `sudo apt install node.js`
 - `sudo apt install npm`
+
+## Install ZSH for Linux and Mac with bash terminal
+
+- check if you already have zsh
+
+```Markdown
+zsh --version
+```
+
+- install `zsh`
+
+Ubuntu
+
+```Markdown
+sudo apt install zsh
+```
+
+Mac
+
+```Markdown
+brew install zsh
+```
+
+- make `zsh` your default terminal
+
+Ubuntu
+
+```Markdown
+ chsh -s $(which zsh)
+```
+
+Mac
+
+```Markdown
+<!-- for Apple chip -->
+chsh -s /opt/homebrew/bin/zsh
+
+<!-- for Intel ship  -->
+chsh -s /usr/local/bin/zsh
+```
+
+- restart your laptop
+
+- Install `ohMyZsh`
+
+```Markdown
+sh -c "$(curl -fsSL
+  https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- [for more info](https://github.com/ohmyzsh/ohmyzsh)
