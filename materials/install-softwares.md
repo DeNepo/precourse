@@ -26,12 +26,6 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
     you start learning JavaScript!
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used write
       and edit your code
-- [ ] [git](https://git-scm.com/downloads) for Mac and Linux, or
-      [git for windows](https://gitforwindows.org/)
-- [ ] [Node.js](https://nodejs.org/en/)
-- [ ] [Integrate Git Bash as Default Terminal in VS Code](https://www.youtube.com/watch?v=PzJCwfYfIzY&ab_channel=NeutronDev)
-- [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way
-  around the CLI
 - GitHub Desktop (optional)
   - This can help you get started with Git & GitHub, but does not replace
     learning to use your CLI
@@ -46,7 +40,7 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 
 ## Git
 
-### On Mac
+### Git On Mac
 
 1. press `command` and `space` and type `terminal` then click `enter`
 2. in the `terminal` type `git --version` if you got a version then you already
@@ -62,13 +56,13 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 5. after you installed `Homebrew` , use the command `brew install git` to
    install git.
 
-### on Windows
+### Git on Windows
 
 1. click on the `search` icon and type `cmd`.
 2. type `git --version` if you got a version then you already have `git`
 3. if not [install git for Windows](https://gitforwindows.org/)
 
-### on Linux
+### Git on Linux
 
 1. It depends on your distribution, if you are using `Ubuntu`
 2. open your terminal and type `git --version`
@@ -160,3 +154,25 @@ sh -c "$(curl -fsSL
 ```
 
 - [for more info](https://github.com/ohmyzsh/ohmyzsh)
+
+## Make Git bash default terminal for Vscode
+
+### Windows
+
+- [CLICK HERE](https://www.youtube.com/watch?v=PzJCwfYfIzY)
+
+## Add VS code to the path
+
+> adding VS code to the path allows you to open your VS code form the terminal
+
+### Windows or Linux
+
+- press `Ctrl + shift + p`
+- type `Shell Command`
+- select `Shell Command: Install 'code' command in PATH`
+
+### Mac
+
+- press `command + shift + p`
+- type `Shell Command`
+- select `Shell Command: Install 'code' command in PATH`
