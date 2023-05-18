@@ -14,7 +14,12 @@
     "webdevs",
     "learngitbranching",
     "ohmygit",
-    "hackyourfuture"
+    "hackyourfuture",
+    "extentions",
+    "autocrlf",
+    "Stylelint",
+    "Intelli",
+    "orginze"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }
