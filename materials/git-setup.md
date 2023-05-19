@@ -1,12 +1,12 @@
 # Git Setup
 
-- Add `user name` to git
+- Add `user name` to Git
 
 ```Markdown
-  git config --global user.name "your gitHub user name"
+  git config --global user.name "your GitHub user name"
 ```
 
-- Add `email` to git
+- Add `email` to Git
 
 ```Markdown
   git config --global user.email "your email"
@@ -18,7 +18,7 @@
   git config --global pull.rebase false
 ```
 
-- Make `VS code` the default editor
+- Make `VS Code` the default editor
 
 ```Markdown
 git config --global core.editor "code --wait"
@@ -36,7 +36,7 @@ Windows
 git config --global core.autocrlf true
 ```
 
-- See all git global configuration in your `VS code`
+- See all Git global configuration in your `VS Code`
 
 ```Markdown
 git config --global -e
