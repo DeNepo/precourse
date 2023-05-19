@@ -42,31 +42,31 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 
 ### Git On Mac
 
-1. press `command` and `space` and type `terminal` then click `enter`
-2. in the `terminal` type `git --version` if you got a version then you already
+1. Press `command` and `space` and type `terminal` then click `enter`
+2. In the `terminal` type `git --version` if you got a version then you already
    have git.
-3. if you didn't get a version then you need to install `Homebrew`
-4. paste this in your terminal and click `enter`
+3. If you didn't get a version then you need to install `Homebrew`
+4. Paste this in your terminal and click `enter`
 
    ```markdown
    /bin/bash -c "$(curl -fsSL
    https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ```
 
-5. after you installed `Homebrew` , use the command `brew install git` to
+5. After you installed `Homebrew` , use the command `brew install git` to
    install git.
 
 ### Git on Windows
 
-1. click on the `search` icon and type `cmd`.
-2. type `git --version` if you got a version then you already have `git`
-3. if not [install git for Windows](https://gitforwindows.org/)
+1. Click on the `search` icon and type `cmd`.
+2. Type `git --version` if you got a version then you already have `git`
+3. If not [install git for Windows](https://gitforwindows.org/)
 
 ### Git on Linux
 
 1. It depends on your distribution, if you are using `Ubuntu`
-2. open your terminal and type `git --version`
-3. if you didn't get a version then type in your terminal
+2. Open your terminal and type `git --version`
+3. If you didn't get a version then type in your terminal
 4. `sudo apt update`
 5. `sudo apt install git`
 
@@ -106,13 +106,13 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 
 ## Install ZSH for Linux and Mac with bash terminal
 
-- check if you already have zsh
+- Check if you already have zsh
 
 ```Markdown
 zsh --version
 ```
 
-- install `zsh`
+### Install `zsh`
 
 Ubuntu
 
@@ -126,7 +126,7 @@ Mac
 brew install zsh
 ```
 
-- make `zsh` your default terminal
+### Make `zsh` Your Default Terminal
 
 Ubuntu
 
@@ -144,7 +144,7 @@ chsh -s /opt/homebrew/bin/zsh
 chsh -s /usr/local/bin/zsh
 ```
 
-- restart your laptop
+- Restart your laptop
 
 - Install `ohMyZsh`
 
@@ -153,15 +153,15 @@ sh -c "$(curl -fsSL
   https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-- [for more info](https://github.com/ohmyzsh/ohmyzsh)
+- [MORE INFO](https://github.com/ohmyzsh/ohmyzsh)
 
-## Make Git bash default terminal for Vscode
+## Make Git Bash Default Terminal for VS Code
 
 ### Windows
 
 - [CLICK HERE](https://www.youtube.com/watch?v=PzJCwfYfIzY)
 
-## Add VS code to the path
+## Add VS Code to The Path
 
 > adding VS code to the path allows you to open your VS code form the terminal
 
