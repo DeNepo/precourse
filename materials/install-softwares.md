@@ -26,12 +26,6 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
     you start learning JavaScript!
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download) - used write
       and edit your code
-- [ ] [git](https://git-scm.com/downloads) for Mac and Linux, or
-      [git for windows](https://gitforwindows.org/)
-- [ ] [Node.js](https://nodejs.org/en/)
-- [ ] [Integrate Git Bash as Default Terminal in VS Code](https://www.youtube.com/watch?v=PzJCwfYfIzY&ab_channel=NeutronDev)
-- [oh my zsh](https://ohmyz.sh/) (optional): this will help you find your way
-  around the CLI
 - GitHub Desktop (optional)
   - This can help you get started with Git & GitHub, but does not replace
     learning to use your CLI
@@ -46,33 +40,33 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 
 ## Git
 
-### On Mac
+### Git On Mac
 
-1. press `command` and `space` and type `terminal` then click `enter`
-2. in the `terminal` type `git --version` if you got a version then you already
+1. Press `command` and `space` and type `terminal` then click `enter`
+2. In the `terminal` type `git --version` if you got a version then you already
    have git.
-3. if you didn't get a version then you need to install `Homebrew`
-4. paste this in your terminal and click `enter`
+3. If you didn't get a version then you need to install `Homebrew`
+4. Paste this in your terminal and click `enter`
 
    ```markdown
    /bin/bash -c "$(curl -fsSL
    https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ```
 
-5. after you installed `Homebrew` , use the command `brew install git` to
+5. After you installed `Homebrew` , use the command `brew install git` to
    install git.
 
-### on Windows
+### Git on Windows
 
-1. click on the `search` icon and type `cmd`.
-2. type `git --version` if you got a version then you already have `git`
-3. if not [install git for Windows](https://gitforwindows.org/)
+1. Click on the `search` icon and type `cmd`.
+2. Type `git --version` if you got a version then you already have `git`
+3. If not [install git for Windows](https://gitforwindows.org/)
 
-### on Linux
+### Git on Linux
 
 1. It depends on your distribution, if you are using `Ubuntu`
-2. open your terminal and type `git --version`
-3. if you didn't get a version then type in your terminal
+2. Open your terminal and type `git --version`
+3. If you didn't get a version then type in your terminal
 4. `sudo apt update`
 5. `sudo apt install git`
 
@@ -109,3 +103,76 @@ In the _Software Installations_ and _VSCode Extensions_ sections of your
 - `sudo apt update`
 - `sudo apt install node.js`
 - `sudo apt install npm`
+
+## Install ZSH for Linux and Mac with bash terminal
+
+- Check if you already have zsh
+
+```Markdown
+zsh --version
+```
+
+### Install `zsh`
+
+Ubuntu
+
+```Markdown
+sudo apt install zsh
+```
+
+Mac
+
+```Markdown
+brew install zsh
+```
+
+### Make `zsh` Your Default Terminal
+
+Ubuntu
+
+```Markdown
+ chsh -s $(which zsh)
+```
+
+Mac
+
+```Markdown
+<!-- for Apple chip -->
+chsh -s /opt/homebrew/bin/zsh
+
+<!-- for Intel ship  -->
+chsh -s /usr/local/bin/zsh
+```
+
+- Restart your laptop
+
+- Install `ohMyZsh`
+
+```Markdown
+sh -c "$(curl -fsSL
+  https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- [MORE INFO](https://github.com/ohmyzsh/ohmyzsh)
+
+## Make Git Bash Default Terminal for VS Code
+
+### Windows
+
+- [CLICK HERE](https://www.youtube.com/watch?v=PzJCwfYfIzY)
+
+## Add VS Code to The Path
+
+> adding VS code to the path allows you to open your VS code form the terminal
+
+### Windows or Linux
+
+- press `Ctrl + shift + p`
+- type `Shell Command`
+- select `Shell Command: Install 'code' command in PATH`
+
+### Mac
+
+- press `command + shift + p`
+- type `Shell Command`
+- select `Shell Command: Install 'code' command in PATH`

@@ -1,13 +1,45 @@
 # Git Setup
 
-> More details (starting at step 2.2)
-> [odin project](https://www.theodinproject.com/lessons/foundations-setting-up-git#step-2-configure-git-and-github)
+- Add `user name` to Git
 
-- [ ] Update Git user name and email (copy and past command in terminal).
-  - `git config --global user.name "Your Name"`
-    > Replace `Your Name` with your real name.
-  - `git config --global user.email "yourname@example.com"`
-    > Replace `yourname@example.com` with your GitHub email.
-  - `git config --global pull.rebase false`
-    > Copy and past command to set your default branch reconciliation behavior
-    > for merging.
+```Markdown
+  git config --global user.name "your GitHub user name"
+```
+
+- Add `email` to Git
+
+```Markdown
+  git config --global user.email "your email"
+```
+
+- Set your default branch reconciliation behavior for merging.
+
+```Markdown
+  git config --global pull.rebase false
+```
+
+- Make `VS Code` the default editor
+
+```Markdown
+git config --global core.editor "code --wait"
+```
+
+- Handle the end line <br> Mac or Linux
+
+```Markdown
+git config --global core.autocrlf input
+```
+
+Windows
+
+```Markdown
+git config --global core.autocrlf true
+```
+
+- See all Git global configuration in your `VS Code`
+
+```Markdown
+git config --global -e
+```
+
+- [MORE INFO](https://www.theodinproject.com/lessons/foundations-setting-up-git#step-2-configure-git-and-github)
