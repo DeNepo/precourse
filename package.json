@@ -5,7 +5,7 @@
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell  './**'",
+    "spell-check": "cspell  \"./**\"",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
@@ -16,7 +16,7 @@
   "author": "HackYourFuture Belgium",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.11.2",
+    "@ls-lint/ls-lint": "^2.0.0",
     "cspell": "^6.31.1",
     "markdownlint-cli": "^0.34.0",
     "prettier": "^2.8.8"
