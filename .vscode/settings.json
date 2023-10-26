@@ -40,8 +40,16 @@
 
   //-------- HTML configuration --------
 
-  // Enable/diable auto closing of HTML tags
+  // Enable/disable auto closing of HTML tags
   "html.autoClosingTags": true,
+
+  // Configures if the built-in HTML language suggests HTML5 tags, properties and values.
+  "html.suggest.html5": true,
+
+  // Defines a default HTML formatter which takes precedence over all other formatter settings. Must be the identifier of an extension contributing a formatter
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
 
   //-------- Emmet configuration --------
 
@@ -50,30 +58,30 @@
 
   //-------- JavaScript configuration --------
 
-  // Enable/diable auto closing of JSX tags.
+  // Enable/disable auto closing of JSX tags.
   "javascript.autoClosingTags": true,
 
-  // Enable/diable auto import suggestions.
+  // Enable/disable auto import suggestions.
   "javascript.suggest.autoImports": true,
 
   // Enable/disable automatic updating of import paths when you rename or move a file in VS Code.
   "javascript.updateImportsOnFileMove.enabled": "always",
 
-  // Enable/diable suggestoins for paths in import statement and require calls. (change it to false to be able to use Path Intellisense extension)
+  // Enable/disable suggestoins for paths in import statement and require calls. (change it to false to be able to use Path Intellisense extension)
   "javascript.suggest.paths": false,
 
   //-------- TypeScript configuration --------
 
-  // Enable/diable auto closing of JSX tags.
+  // Enable/disable auto closing of JSX tags.
   "typescript.autoClosingTags": true,
 
-  // Enable/diable auto import suggestions.
+  // Enable/disable auto import suggestions.
   "typescript.suggest.autoImports": true,
 
   // Enable/disable automatic updating of import paths when you rename or move a file in VS Code.
   "typescript.updateImportsOnFileMove.enabled": "always",
 
-  // Enable/diable suggestoins for paths in import statement and require calls. (change it to false to be able to use Path Intellisense extension)
+  // Enable/disable suggestoins for paths in import statement and require calls. (change it to false to be able to use Path Intellisense extension)
   "typescript.suggest.paths": false,
 
   //-------- Work Bench configuration --------
@@ -97,5 +105,13 @@
   //-------- Markdown configuration --------
 
   // Enable path suggestoins while writing links in markdown files
-  "markdown.suggest.paths.enabled": true
+  "markdown.suggest.paths.enabled": true,
+
+  // Defines a default markdown formatter which takes precedence over all other formatter settings. Must be the identifier of an extension contributing a formatter
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+
+  // Enable/disable update table of contents on save
+  "markdown.extension.toc.updateOnSave": false
 }
