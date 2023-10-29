@@ -1,7 +1,7 @@
 {
   "name": "precourse",
   "version": "1.0.0",
-  "description": "Materials for the Precourse module at HackYourFuture Belgium",
+  "description": "Materials for the Precourse module at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
@@ -11,9 +11,10 @@
   },
   "keywords": [
     "HackYourFuture Belgium",
-    "Precourse"
+    "Precourse",
+    "DeNepo"
   ],
-  "author": "HackYourFuture Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",
