@@ -103,6 +103,7 @@ You can expect a growing network, friendships, Sunday fun, a lot of learnings,
 hard times getting stuck in code, and satisfaction when you reach your goals.
 
 Take a look through our
+[HYF Youtube channel](https://www.youtube.com/@HYF-BE)
 [Core Values](https://home.hackyourfuture.be/core-values) and
 [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct) so we can make
 the web a better place together!
