@@ -2,4 +2,4 @@
 
 - Welcome to HYF.
 - Introduction.
-- Check the [deliverables](../deliverables/README.md)
+- [Deliverables](../deliverables/README.md)
