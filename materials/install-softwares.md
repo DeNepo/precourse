@@ -1,4 +1,4 @@
-# Install Softwares
+# Install Software
 
 Before getting to work you will need to make sure your computer is ready to go.
 In the _Software Installations_ and _VSCode Extensions_ sections of your
