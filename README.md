@@ -6,16 +6,16 @@
 
 ---
 
-Welcome to Hack Your Future Belgium. There is a lot of code, links, and browser
+Welcome to Hack Your Future Belgium. There are a lot of code, links, and browser
 tabs in your near future!
 
 It'll take a little while to learn how to keep this all organized in your head
 and on your computer. If you're having trouble finding something, take a look
-through the links in your class repository. If you still cant find it, ask your
+through the links in your class repository. If you still can't find it, ask your
 classmates on Discord and someone will help you out!
 
 This module's main objective is to get you comfortable with the workflows of
-programming and of Hack Your Future BE. The finished projects won't be complex
+programming and Hack Your Future BE. The finished projects won't be complex
 or impressive to an outsider, but to complete them you will need to have a basic
 overview of the entire development process. Including: ideation, local
 development, pushing and pulling to github, and hosting static web pages.
@@ -59,24 +59,24 @@ study time and to measure your progress:
 - **GitHub**:
   - [ ] 🥚 **Creating Issues**: You can create a new issue in a GitHub
         repository using an issue template. You can correctly use labels,
-        milestones, and assignment to make your issue findable.
+        milestones, and assignments to make your issue findable.
   - [ ] 🥚 **Searching Issues**: You can find issues in a repository by label,
         author, and milestone.
   - [ ] 🥚 **Project Boards**: You can use issues on a GitHub project board to
         track your class assignments and help your classmates when they need it.
 - **HYF Workflows**:
   - [ ] 🥚 **Check-Ins**: You can use the `check-in` template to track your
-        module learning objectives, your weekly progress (and to post a
+        module learning objectives, and your weekly progress (and to post a
         retrospective at the end of the module). You create one check-in issue
         per module in the class repo and each Thursday you add a check-in
         comment to it and the label for the corresponding week. After review, we
         add the checked label. No need to remove previous labels either. So as
-        an example, after a 5 week module, you would have 5 comments and 5
+        an example, after a 5-week module, you would have 5 comments and 5
         labels added by you.
   - [ ] 🥚 **Deliverables**: You can create an issue for this module's
         `deliverable` and track your progress on the class project board. Each
-        week, there are different assignments / deliverables. If it is an
-        individual project, you create your own deliverable issue for it in the
+        week, there are different assignments/deliverables. If it is an
+        individual project, you create your deliverable issue for it in the
         class repo. If it is a group project, the entire group creates 1 issue
         together in the class repo.
   - [ ] 🥚 **Asking for Help**: You can use the `help-wanted` template in your
