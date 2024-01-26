@@ -2,7 +2,7 @@
 
 Before getting to work you will need to make sure your computer is ready to go.
 In the _Software Installations_ and _VSCode Extensions_ sections of your
-`precourse` issue is a list of the softwares you will need to succeed at HYF.
+`precourse` issue is a list of the software you will need to succeed at HYF.
 
 - [ ] [Slack](https://slack.com/) -
       [Slack Windows](https://slack.com/downloads/windows) -
