@@ -7,7 +7,7 @@ complete the tasks, the issue will keep track of your progress:
 ```markdown
 1. [ ] Create this issue
 2. [ ] Look through the guides in your class repo
-3. [ ] Install softwares
+3. [ ] Install software
 4. [ ] Install VS Code extensions
 5. [ ] Organize my computer
 6. [ ] GitHub setup
