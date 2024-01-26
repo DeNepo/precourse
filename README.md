@@ -43,8 +43,7 @@ study time and to measure your progress:
   need for this module and the next. You do not need to finish all of them but
   should feel comfortable that you could with enough time.
 - 🐣: You have started all of these exercises and feel you could complete them
-  all if you just had more time. It may not be easy for you but with effort you
-  can make it through.
+  all if you just had more time. It may not be easy for you but with effort, you can make it through.
 - 🐥: You have studied the examples and started some exercises if you had time.
   You should have a big-picture understanding of these concepts/skills, but may
   not be confident completing the exercises.
@@ -99,8 +98,7 @@ study time and to measure your progress:
 
 We are a community of people who want to make the web a better place.
 
-You can expect a growing network, friendships, Sunday fun, a lot of learnings,
-hard times getting stuck in code, and satisfaction when you reach your goals.
+You can expect a growing network, friendships, Sunday fun, a lot of learning, hard times getting stuck in code, and satisfaction when you reach your goals.
 
 Take a look through our
 
